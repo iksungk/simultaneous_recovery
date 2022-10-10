@@ -11,4 +11,4 @@ This repository provides code and datasets used for the Optica paper (Kang and d
 - utils.py: a Python file with auxiliary functions.
 - losses.py: a Python file with various kinds of training loss functions and regularizations.
 
-Any questions regarding the code should be directed to Iksung Kang (iskang@mit.edu).
+Any questions regarding the code should be directed to Iksung Kang (iksung.kang@alum.mit.edu).
