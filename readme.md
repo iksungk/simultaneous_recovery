@@ -1,6 +1,6 @@
 # Simultaneous spectral recovery and CMOS micro-LED holography with an untrained deep neural network
 
-This repository provides code and datasets used for the Optica paper (Kang and de Cea et al, Optica (2022)).
+This repository provides code and datasets used for the Optica paper (Kang and de Cea et al, Optica (2022)): https://opg.optica.org/optica/fulltext.cfm?uri=optica-9-10-1149&id=509776.
 
 - source: a folder containing an experimental measurement using a commerical LED and measured spectrum of the LED.
 - figure: a folder containing visualizations of reconstructions.
